@@ -8,7 +8,7 @@ You can find and connect with me here 👨🏻‍💻:
 
 Portfolio: https://iamabhishek22.netlify.app/
 | Instagram: https://www.instagram.com/iamabhishek22_/
-| Twitter: https://twitter.com/iamabhishek22_
+| Twitter: https://twitter.com/iamabhishek22_/
 | Linked In: www.linkedin.com/in/abhishek-rawat-02513417b
 | Medium: https://medium.com/@iamabhishek22
 | E-mail: abhishekrawat5743@gmail.com
