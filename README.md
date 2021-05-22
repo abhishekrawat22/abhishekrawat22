@@ -6,8 +6,7 @@ I am a Front-end Developer from the Hills🗻 of Uttarakhand, India, with over 1
 
 You can find and connect with me here 👨🏻‍💻:
 
-Portfolio: https://abhishek-portfolio.netlify.app/
-| Instagram: https://www.instagram.com/iamabhishek22_/
+Instagram: https://www.instagram.com/iamabhishek22_/
 | Twitter: https://twitter.com/iamabhishek22_/
 | Linked In: www.linkedin.com/in/abhishek-rawat-02513417b
 | Medium: https://medium.com/@iamabhishek22
