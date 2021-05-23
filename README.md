@@ -1,13 +1,12 @@
-<img src="https://github.com/abhishekrawat22/abhishekrawat22/blob/master/Abhishek%20Rawat.png"/>
+<img src="https://github.com/abhishekrawat22/abhishekrawat22/blob/master/assets/images/png/Abhishek-Rawat.png" alt="Abhishek Rawat - Front End Engineer"/>
 
 ### Hi there 👋
 
-I am a Front-end Developer from the Hills🗻 of Uttarakhand, India, with over 1 year of experience in corporate world and 2 years in freelancing world. I have helped companies by giving them an online presence and increased their revenue by building websites through scratch and WordPress along with making them mobile-friendly. I also love Cricket🏏 and Singing🎤.
+I am a Front-end Engineer from the Hills🗻 of Uttarakhand, India. I have been in this industry for almost 2 years. My current working stacks are HTML, CSS, SCSS, LESS and, JavaScript. I also love Cricket🏏 and Singing🎤.
 
-You can find and connect with me here 👨🏻‍💻:
+You can find and connect with me on the below platforms 👨🏻‍💻:
 
-Instagram: https://www.instagram.com/iamabhishek22_/
-| Twitter: https://twitter.com/iamabhishek22_/
-| Linked In: www.linkedin.com/in/abhishek-rawat-02513417b
-| Medium: https://medium.com/@iamabhishek22
-| E-mail: abhishekrawat5743@gmail.com
+<a href="https://www.instagram.com/iamabhishek22_/" target="_blank"><img src="https://github.com/abhishekrawat22/abhishekrawat22/blob/master/assets/images/svg/instagram.svg" alt="Instagram" width=30 height=30 /></a>
+<a href="https://twitter.com/iamabhishek22_/" target="_blank"><img src="https://github.com/abhishekrawat22/abhishekrawat22/blob/master/assets/images/svg/twitter.svg" alt="Twitter" width=30 height=30 /></a>
+<a href="https://www.linkedin.com/in/abhishek-rawat-02513417b/" target="_blank"><img src="https://github.com/abhishekrawat22/abhishekrawat22/blob/master/assets/images/svg/linkedin.svg" alt="Linked In" width=30 height=30 /></a>
+<a href="mailto:abhishekrawat5743@gmail.com" target="_blank"><img src="https://github.com/abhishekrawat22/abhishekrawat22/blob/master/assets/images/svg/gmail.svg" alt="Gmail" width=30 height=30 /></a>
