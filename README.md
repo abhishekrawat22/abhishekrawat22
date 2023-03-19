@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a Front-end Engineer from the Hills🗻 of Uttarakhand, India. I have been in this industry for almost 2 years. My current working stacks are HTML, CSS, SCSS, LESS and, JavaScript. I also love Cricket🏏 and Singing🎤.
+I am a Front-end Engineer from the Hills🗻 of Uttarakhand, India. I have been in this industry for almost 3.5 years. My current working stacks are HTML, CSS, SCSS, LESS and, JavaScript. I also love Cricket🏏 and Singing🎤.
 
 You can find and connect with me on the below platforms 👨🏻‍💻:
 
