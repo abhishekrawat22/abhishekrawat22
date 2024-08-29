@@ -1,9 +1,5 @@
 <img src="https://github.com/abhishekrawat22/abhishekrawat22/blob/master/assets/images/png/Abhishek-Rawat.png" alt="Abhishek Rawat - Front End Engineer"/>
 
-### Hi there 👋
-
-I am a Front-end Engineer from the Hills🗻 of Uttarakhand, India. I have been in this industry for above 4 years. My current working stacks are HTML, CSS, SCSS, LESS, and, JavaScript. I also love Cricket🏏 and Singing🎤.
-
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekrawat22&show_icons=true&theme=transparent)](https://github.com/abhishekrawat22/github-readme-stats)
 
 ### Holopin Badges
